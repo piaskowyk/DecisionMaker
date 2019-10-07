@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/piaskowyk/DecisionMaker/master/app/assets/logo.png" alt="DecisionMaker" width="200">
+  <img src="https://raw.githubusercontent.com/piaskowyk/DecisionMaker/master/images/logo.png" alt="DecisionMaker" width="200">
   <br>DecisionMaker<br>
 </h1>
 
